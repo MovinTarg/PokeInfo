@@ -1,0 +1,10 @@
+﻿<h1>Welcome to the C# Pokedex!</h1>
+<h3>Name: @ViewBag.name</h3>
+<img src="@ViewBag.sprite">
+<p>Types:</p>
+@foreach(var type in @ViewBag.types)
+{
+    <p>@type</p>
+}
+<p>Height: @ViewBag.height</p>
+<p>Weight: @ViewBag.weight</p>

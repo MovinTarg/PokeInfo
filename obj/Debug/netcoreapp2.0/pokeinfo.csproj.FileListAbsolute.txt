@@ -1,0 +1,10 @@
+C:\Users\Pete\Desktop\DojoAssignments\netCore\asp.net_core_intermediate\pokeinfo\bin\Debug\netcoreapp2.0\pokeinfo.deps.json
+C:\Users\Pete\Desktop\DojoAssignments\netCore\asp.net_core_intermediate\pokeinfo\bin\Debug\netcoreapp2.0\pokeinfo.runtimeconfig.json
+C:\Users\Pete\Desktop\DojoAssignments\netCore\asp.net_core_intermediate\pokeinfo\bin\Debug\netcoreapp2.0\pokeinfo.runtimeconfig.dev.json
+C:\Users\Pete\Desktop\DojoAssignments\netCore\asp.net_core_intermediate\pokeinfo\bin\Debug\netcoreapp2.0\pokeinfo.dll
+C:\Users\Pete\Desktop\DojoAssignments\netCore\asp.net_core_intermediate\pokeinfo\bin\Debug\netcoreapp2.0\pokeinfo.pdb
+C:\Users\Pete\Desktop\DojoAssignments\netCore\asp.net_core_intermediate\pokeinfo\obj\Debug\netcoreapp2.0\pokeinfo.csproj.CoreCompileInputs.cache
+C:\Users\Pete\Desktop\DojoAssignments\netCore\asp.net_core_intermediate\pokeinfo\obj\Debug\netcoreapp2.0\pokeinfo.AssemblyInfoInputs.cache
+C:\Users\Pete\Desktop\DojoAssignments\netCore\asp.net_core_intermediate\pokeinfo\obj\Debug\netcoreapp2.0\pokeinfo.AssemblyInfo.cs
+C:\Users\Pete\Desktop\DojoAssignments\netCore\asp.net_core_intermediate\pokeinfo\obj\Debug\netcoreapp2.0\pokeinfo.dll
+C:\Users\Pete\Desktop\DojoAssignments\netCore\asp.net_core_intermediate\pokeinfo\obj\Debug\netcoreapp2.0\pokeinfo.pdb
